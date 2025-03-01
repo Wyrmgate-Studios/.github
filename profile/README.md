@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <a href="https://ibb.co/hx3c1K1B"><img src="https://i.ibb.co/XfcDkzk7/Doomscroller-logo.png" alt="Doomscroller-logo" width="150" height="150"></a>
 </div>
 
 ###
