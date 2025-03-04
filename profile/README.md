@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="center"><h4>Our games</h4>
+<div align="center"><h4>Our games</h4></div>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h4 align="center">H4>Our social platforms</h4>
+<div align="center">H4>Our social platforms</h4></div>
 
 ###
 
