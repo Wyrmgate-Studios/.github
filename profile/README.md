@@ -10,11 +10,11 @@
 
 ###
 
-<h4 align="center">Warmest Welcome, Traveller. <br><br>You've come across the Github page for Wyrmgate Studios where our passion is bringing back the games that defined generations. Inspired by classics like Crash Bandicoot, Metroid, Spyro, Pokemon and Sonic<br><br>Our sole mission is to craft experiences that will fuel the next generation of gamers, just as those iconic titles fueled ours. At Wyrmgate Studios, we’re dedicated to bringing back the heart and soul of platformers and adventure games that everyone can enjoy.</h4>
+<h4 align="center"><h2>Warmest Welcome, Traveller.</h2> <br><br>You've come across the Github page for Wyrmgate Studios where our passion is bringing back the games that defined generations. Inspired by classics like Crash Bandicoot, Metroid, Spyro, Pokemon and Sonic<br><br>Our sole mission is to craft experiences that will fuel the next generation of gamers, just as those iconic titles fueled ours. At Wyrmgate Studios, we’re dedicated to bringing back the heart and soul of platformers and adventure games that everyone can enjoy.</h4>
 
 ###
 
-<h4 align="center">Our games</h4>
+<h4 align="center"><h4>Our games</h4>
 
 ###
 
@@ -24,14 +24,14 @@
 
 ###
 
-<h4 align="center">Our social platforms</h4>
+<h4 align="center">H4>Our social platforms</h4>
 
 ###
 
 <div align="center">
   <a href="https://discord.gg/sDk5WXbtH2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=The%20Doomscroller&color=7289DA&logoColor=white&labelColor=7289DA&style=plastic" height="40" alt="discord logo"/>
-  </a>
+  </a><br>
   <a href="https://forms.gle/7dFausw1guVCkzYJ6"><img src="https://i.ibb.co/DgjpNCfT/button-1.png" alt="button-1" border="0"></a>
 </div>
 
