@@ -24,7 +24,7 @@
 
 ###
 
-<div align="center">H4>Our social platforms</h4></div>
+<div align="center"><H4>Our social platforms</h4></div>
 
 ###
 
