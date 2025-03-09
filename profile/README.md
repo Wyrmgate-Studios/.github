@@ -33,6 +33,8 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=The%20Doomscroller&color=7289DA&logoColor=white&labelColor=7289DA&style=plastic" height="40" alt="discord logo"/>
   </a><br>
   <a href="https://forms.gle/7dFausw1guVCkzYJ6"><img src="https://i.ibb.co/DgjpNCfT/button-1.png" alt="button-1" border="0"></a>
+  <br>
+  <a href="https://www.reddit.com/r/DoomscrollerOfficial/"><img src="https://i.ibb.co/bjHCYf8w/redditlogo.png" alt="redditlogo" border="0"></a>
 </div>
 
 ###
