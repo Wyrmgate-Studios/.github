@@ -34,7 +34,7 @@
   </a><br>
   <a href="https://forms.gle/7dFausw1guVCkzYJ6"><img src="https://i.ibb.co/DgjpNCfT/button-1.png" alt="button-1" border="0"></a>
   <br>
-  <a href="https://www.reddit.com/r/DoomscrollerOfficial/"><img src="https://i.ibb.co/bjHCYf8w/redditlogo.png" alt="redditlogo" border="0"></a>
+  <a href="https://www.reddit.com/r/DoomscrollerOfficial/"><img src="https://i.ibb.co/bjHCYf8w/redditlogo.png" alt="redditlogo" height="40"></a>
 </div>
 
 ###
