@@ -31,10 +31,19 @@
 <div align="center">
   <a href="https://discord.gg/sDk5WXbtH2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=The%20Doomscroller&color=7289DA&logoColor=white&labelColor=7289DA&style=plastic" height="40" alt="discord logo"/>
-  </a><br>
-  <a href="https://forms.gle/7dFausw1guVCkzYJ6"><img src="https://i.ibb.co/DgjpNCfT/button-1.png" alt="button-1" border="0"></a>
+  </a>
   <br>
-  <a href="https://www.reddit.com/r/DoomscrollerOfficial/"><img src="https://i.ibb.co/bjHCYf8w/redditlogo.png" alt="redditlogo" height="40"></a>
+  <a href="https://x.com/WyrmgateStudios" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Follow%20us%20on&color=5acbfc&logoColor=white&labelColor=5acbfc&style=plastic" height="40" alt="twitter logo"  />
+  </a>
+  <br>
+  <a href="https://www.reddit.com/r/DoomscrollerOfficial/">
+    <img src="https://i.ibb.co/bjHCYf8w/redditlogo.png" alt="redditlogo" height="40">
+  </a>
+  <br>
+  <a href="https://forms.gle/7dFausw1guVCkzYJ6">
+    <img src="https://i.ibb.co/DgjpNCfT/button-1.png" alt="button-1" border="0">
+  </a>
 </div>
 
 ###
