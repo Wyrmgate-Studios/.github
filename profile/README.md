@@ -41,6 +41,10 @@
     <img src="https://i.ibb.co/bjHCYf8w/redditlogo.png" alt="redditlogo" height="40">
   </a>
   <br>
+  <a href="https://www.tumblr.com/wyrmgate-studios" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Tumblr&logo=twitter&label=Follow%20us%20on&color=1DA1F2&logoColor=white&labelColor=1DA1F2&style=plastic" height="40" alt="twitter logo"  />
+  </a>
+  <br>
   <a href="https://forms.gle/7dFausw1guVCkzYJ6">
     <img src="https://i.ibb.co/DgjpNCfT/button-1.png" alt="button-1" border="0">
   </a>
