@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/2-Player-Studios/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://ibb.co/DDsVQkP4"><img src="https://i.ibb.co/qMXyp9LB/IMG-20250227-WA0004.jpg" alt="IMG-20250227-WA0004" width="280"></a>
 </div>
 
