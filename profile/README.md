@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/static/v1?message=Tumblr&logo=twitter&label=Follow%20us%20on&color=1DA1F2&logoColor=white&labelColor=1DA1F2&style=plastic" height="40" alt="twitter logo"  />
   </a>
   <br>
-  <a href="https://www.reddit.com/r/DoomscrollerOfficial/">
+  <a href="">
     <img src="https://i.ibb.co/bjHCYf8w/redditlogo.png" alt="redditlogo" height="40">
   </a>
   <br>
