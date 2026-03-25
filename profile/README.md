@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <a href="https://ibb.co/hx3c1K1B"><img src="https://i.ibb.co/XfcDkzk7/Doomscroller-logo.png" alt="Doomscroller-logo" width="150" height="150"></a>
+  <a href=""><img src="" alt="Doomscroller-logo" width="150" height="150"></a>
 </div>
 
 ###
@@ -36,7 +36,7 @@
   </a>
   <br>
   <a href="">
-    <img src="https://i.ibb.co/bjHCYf8w/redditlogo.png" alt="redditlogo" height="40">
+    <img src="" alt="redditlogo" height="40">
   </a>
   <br>
   <a href="https://forms.gle/7dFausw1guVCkzYJ6">
