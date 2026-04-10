@@ -1,5 +1,5 @@
 <div align="center">
-<a href="www.wyrmgatestudios.com"><img src="https://i.ibb.co/C5JrF1vf/wyrmgate-studios-logo-removebg-preview.png" alt="wyrmgate studios logo removebg preview" border="0"></a>
+<a href="www.wyrmgatestudios.com"><img src="https://i.ibb.co/JWbWgGSK/wyrmgate-studios-logo-smaller.png" alt="wyrmgate studios logo(smaller)" border="0"></a>
 </div>
 
 ---
