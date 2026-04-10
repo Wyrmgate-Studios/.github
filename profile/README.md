@@ -1,67 +1,71 @@
 <div align="center">
-  <a href="https://ibb.co/DDsVQkP4"><img src="https://i.ibb.co/qMXyp9LB/IMG-20250227-WA0004.jpg" alt="IMG-20250227-WA0004" width="280"></a>
+<a href="www.wyrmgatestudios.com"><img src="https://i.ibb.co/C5JrF1vf/wyrmgate-studios-logo-removebg-preview.png" alt="wyrmgate studios logo removebg preview" border="0"></a>
 </div>
 
-###
+---
 
-<h4 align="center"><h2>Warmest Welcome, Traveller.</h2> <br><br>You've come across the Github page for Wyrmgate Studios where our passion is bringing back the games that defined generations. Inspired by classics like Crash Bandicoot, Metroid, Spyro, Pokemon and Sonic<br><br>Our sole mission is to craft experiences that will fuel the next generation of gamers, just as those iconic titles fueled ours. At Wyrmgate Studios, we’re dedicated to bringing back the heart and soul of platformers and adventure games that everyone can enjoy.</h4>
+## Wyrmgate Studios
 
-###
+**Building modern games inspired by timeless classics.**
 
-<div align="center"><h4>Our games</h4></div>
+Wyrmgate Studios is an independent game development group focused on creating engaging platformers and adventure experiences. Our work draws inspiration from iconic titles such as Crash Bandicoot, Metroid, Spyro and Bauldrs Gate
 
-###
+We aim to capture what made those games memorable. Tight gameplay, expressive worlds, and a strong sense of adventure, all while building experiences that feel fresh and relevant for today’s players.
+
+---
+## Our Mission
+
+We design games with a focus on lasting impact—experiences that players return to, remember, and share.
+
+Our approach centres on:
+- Strong gameplay foundations and satisfying mechanics  
+- Distinct, character-driven worlds  
+- Meaningful progression and replayability  
+
+---
+## 🚧 Projects in development
 
 <div align="center">
-  <a href=""><img src="" alt="Doomscroller-logo" width="150" height="150"></a>
+  <img src="https://i.ibb.co/7x3K5dHW/file-00000000fb947243be9d4a62c31ee1bb.png" alt="" width="150" height="150">
 </div>
 
-###
+---
 
-<div align="center"><H4>Our social platforms</h4></div>
+## Community & Socials
+<div align="center" style="display: flex; gap: 10px; justify-content: center;">
 
-###
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/S7mV2z96/icons8-facebook-144.png" alt="icons8 facebook 144" border="0"></a>
 
-<div align="center">
-  <a href="https://discord.gg/sDk5WXbtH2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=The%20Doomscroller&color=7289DA&logoColor=white&labelColor=7289DA&style=plastic" height="40" alt="discord logo"/>
-  </a>
-  <br>
-  <a href="https://x.com/WyrmgateStudios" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Follow%20us%20on&color=5acbfc&logoColor=white&labelColor=5acbfc&style=plastic" height="40" alt="twitter logo"  />
-  </a>
-  <br>
-    <a href="https://www.tumblr.com/wyrmgate-studios" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Tumblr&logo=twitter&label=Follow%20us%20on&color=1DA1F2&logoColor=white&labelColor=1DA1F2&style=plastic" height="40" alt="twitter logo"  />
-  </a>
-  <br>
-  <a href="">
-    <img src="" alt="redditlogo" height="40">
-  </a>
-  <br>
-  <a href="https://forms.gle/7dFausw1guVCkzYJ6">
-    <img src="https://i.ibb.co/DgjpNCfT/button-1.png" alt="button-1" border="0">
-  </a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/HpnVY36J/icons8-instagram-144.png" alt="icons8 instagram 144" border="0"></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/F4dVZtFy/icons8-twitter-144.png" alt="icons8 twitter 144" border="0"></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/tw2VDygz/icons8-youtube-144.png" alt="icons8 youtube 144" border="0"></a>
+
+<a href="https://www.tumblr.com/blog/wyrmgate-studios"><img src="https://i.ibb.co/bRDy30c4/icons8-tumblr-144.png" alt="icons8 tumblr 144" border="0"></a>
+
+<a href="https://discord.gg/sDk5WXbtH2"><img src="https://i.ibb.co/MxFfmfQW/icons8-discord-bubble-144.png" alt="icons8 discord bubble 144" border="0"></a>
 </div>
 
-###
+## Meet the Team
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://i.ibb.co/fzqWpxcB/68022353.jpg" width="100px" alt=""/><br />
+      <b>xTekker</b><br />
+      <i>Project Lead</i><br />
+      <a href="https://github.com/xTekker">GitHub</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/username2.png" width="100px" alt=""/><br />
+      <b>xRipper</b><br />
+      <i>Programmer</i><br />
+      <a href="https://github.com/xiLordRipper">GitHub</a>
+    </td>
+  </tr>
+</table>
 
-###
+
+
+
